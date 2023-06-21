@@ -1,6 +1,6 @@
 # Repository Service Pattern (Practice Demo)
 
-(This is in progress)
+(In progress)
 
 This is a sample project from [Exception Not Found](https://exceptionnotfound.net/the-repository-service-pattern-with-dependency-injection-and-asp-net-core/). This is not my own work and is simply for practice purposes only.
 
